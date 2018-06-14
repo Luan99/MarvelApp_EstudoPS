@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+
+    <string name="heroi_01" translatable="false">IronMan</string>
+    <string name="heroi_01_detalhe" translatable="false">
+is a fictional comic book character published by Marvel Comics. His true identity is that of businessman and billionaire Tony Stark, who uses high-tech armor in the fight against crime.</string>
+
+</resources>

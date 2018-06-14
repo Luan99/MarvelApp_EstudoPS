@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="heroi_01">Homem de Ferro</string>
+    <string name="heroi_01_detalhe">" é um personagem de quadrinhos fictício publicado pela Marvel Comics. Sua verdadeira identidade é a do empresário e bilionário Tony Stark, que usa uma armadura de alta tecnologia na luta contra o crime."</string>
+</resources>
